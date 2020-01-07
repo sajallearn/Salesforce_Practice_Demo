@@ -1,0 +1,4 @@
+[submodule "Salesforce_Practice_Resources"]
+	path = Salesforce_Practice_Resources
+	url = https://github.com/sajallearn/Salesforce_Practice_Demo_Resources.git
+	branch = master
